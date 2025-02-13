@@ -58,7 +58,7 @@ from [**Figma Community**](https://www.figma.com/community) and include the link
 ## 🌟 Bonus (Optional, but appreciated)
 ⭐ Implement **a dark mode toggle** using React state.  
 ⭐ Add **simple animations** (e.g., fade-in effects with CSS transitions).  
-⭐ Make the view counter dynamic, increasing when a post is opened.
+⭐ Make the view counter dynamic, increasing when a post is opened.  
 ⭐ Dynamically calculate the estimated reading time based on word count (e.g., assuming 200 words per minute).
 
 ---
@@ -74,7 +74,7 @@ from [**Figma Community**](https://www.figma.com/community) and include the link
 
 ## ✅ Evaluation Criteria
 🔹 **Code structure and readability**  
-🔹 **Mobile responsiveness and UI quality**
+🔹 **Mobile responsiveness and UI quality**  
 🔹 **Accessibility and performance considerations**  
 🔹 **Bonus features implementation** (if any)  
 
