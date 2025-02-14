@@ -20,7 +20,7 @@ and include the link to it in your README file.
 #### **Page Layout**
 ✅ Implement a **responsive** blog post listing page.  
 ✅ Use **SCSS** for styling.  
-✅ Do not use CSS/JS UI libraries.  
+✅ **Do not use** CSS/JS UI libraries.  
 ✅ Use a **grid-based** layout that adapts to different screen sizes.  
 ✅ Ensure accessibility (e.g., semantic HTML, proper use of alt attributes for images).  
 ✅ Use a **mobile-first approach** in your styles.  
