@@ -13,11 +13,14 @@ Additionally, you should use **a free blog design from [Figma Community](https:/
 Choose any **free** [blog UI kit](https://www.figma.com/community/search?resource_type=mixed&sort_by=relevancy&query=blog&editor_type=figma&price=free&creators=all)
 and include the link to it in your README file.
 
+**Do not use CSS/JS UI libraries** (e.g., Bootstrap, Material UI, Tailwind). The styling should be implemented using SCSS from scratch.
+
 ### 🔹 Requirements
 
 #### **Page Layout**
 ✅ Implement a **responsive** blog post listing page.  
 ✅ Use **SCSS** for styling.  
+✅ Do not use CSS/JS UI libraries.  
 ✅ Use a **grid-based** layout that adapts to different screen sizes.  
 ✅ Ensure accessibility (e.g., semantic HTML, proper use of alt attributes for images).  
 ✅ Use a **mobile-first approach** in your styles.  
